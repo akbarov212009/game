@@ -1,0 +1,18 @@
+
+*{
+  color: white;
+  font-family: 'Roboto';
+}
+
+.navbar{
+  background-color: #141C24;
+}
+.navbar .navbar-links a{
+  font-weight: 300;
+  font-size: 16px;
+}
+.navbar .navbar-links a:hover{
+  border-bottom: 1px solid #00C5ff;
+  font-weight: 400;
+  padding-bottom: 8px;
+}
